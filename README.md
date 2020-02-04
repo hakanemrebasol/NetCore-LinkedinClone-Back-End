@@ -10,5 +10,5 @@ You can find flutter app here.(Flutter)
 - [Flutter App: You can find here](https://github.com/hakanemrebasol/Flutter-Linkedin-Clone)
 
 ## Swagger
-![Swagger](https://i.ibb.co/wzTJRr9/Firefox-Screenshot-2020-02-04-T14-15-41-323-Z.png)
+![Swagger](https://github.com/hakanemrebasol/NetCore-LinkedinClone-Back-End/blob/master/swagger.png)
 
